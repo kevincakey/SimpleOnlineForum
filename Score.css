@@ -1,0 +1,13 @@
+
+.score {
+    color: #6E6E6E;
+    font-weight: bold;
+}
+
+.scoreArrows {
+    color: #878585;
+    font-weight: bold;
+    font-size: 20px;
+    border: 0px;
+    background-color: transparent;
+}
